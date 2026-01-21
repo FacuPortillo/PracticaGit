@@ -1,1 +1,1 @@
-console.log("Esto es supuestamente main");
+console.log("Deberia funcionar");
